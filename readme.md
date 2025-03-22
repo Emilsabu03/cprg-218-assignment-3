@@ -1,0 +1,1 @@
+"All the images in this assignment are given by web communication instructor."
