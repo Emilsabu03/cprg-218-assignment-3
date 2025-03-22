@@ -87,7 +87,7 @@ footer {
     color: white;
 }
  
- /* Devices greater than 1000px wide */
+ /* Devices which is greater than 1000px wide */
  @media (min-width: 1000px) {
 
 #gallery-container {
@@ -99,7 +99,7 @@ footer {
 }
 }
  
-/* Devices less than 1000px wide */
+/* Devices which less than 1000px wide */
 @media (max-width: 999px) {
 nav {
     display: flex;
@@ -126,7 +126,7 @@ nav ul li {
 }
 }
  
-/* Devices less than 768px wide */
+/* Devices which is less than 768px wide */
 @media (max-width: 768px) {
 
 header {
@@ -161,7 +161,7 @@ nav a {
     font-size: 1.25rem;
 }
  
-/* Photo styling  */
+/* Styling the pictures */
 
 #gallery-container {
     grid-template-columns: 1fr; 
